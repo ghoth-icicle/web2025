@@ -9,7 +9,7 @@ document.getElementById("get-recommendation").addEventListener("click", () => {
         const lon = position.coords.longitude;
 
         // 날씨 API 호출 (예시: OpenWeather)
-        const apiKey = "YOUR_OPENWEATHER_API_KEY";
+        const apiKey = "20151534dd9a1ef08326b8145318e9e2";
         const weatherURL = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apiKey}&units=metric&lang=kr`;
 
         try {
