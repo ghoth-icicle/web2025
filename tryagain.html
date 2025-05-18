@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>여행지 추천 서비스</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>📍 나에게 딱 맞는 여행지 추천</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>여행 정보 입력</h2>
+      <form id="preferences-form">
+        <label for="category">선호 카테고리:</label>
+        <select id="category">
+          <option value="mountain">산</option>
+          <option value="sea">바다</option>
+          <option value="city">도시</option>
+          <option value="culture">문화재</option>
+          <option value="festival">축제</option>
+        </select>
+        <button type="button" id="get-recommendation">추천받기</button>
+      </form>
+    </section>
+
+    <section>
+      <h2>추천 여행지</h2>
+      <div id="recommendation-result">여행지를 추천받으려면 버튼을 클릭하세요.</div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
