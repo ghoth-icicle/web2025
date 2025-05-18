@@ -1,0 +1,7 @@
+<h1>chapter6</h1><br>
+<li>변수 선언 - var, let, const: 값을 저장하는 키워드</li>
+<li>자료형 - 문자열, 숫자, 불린 등: 다양한 데이터 표현</li>
+<li>조건문 - if, switch: 조건에 따라 분기 처리</li>
+<li>반복문 - for, while: 코드를 반복 실행</li>
+<li>함수 정의 - function: 동작을 정의하고 재사용</li>
+<li>이벤트 처리 - onclick 등: 사용자 동작에 반응</li>
