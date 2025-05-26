@@ -19,7 +19,7 @@ document.getElementById("get-recommendation").addEventListener("click", () => {
           const isRainy = weatherMain.includes("rain");
 
           // 여행지 데이터 로드
-          const placesResponse = await fetch("places.json");
+          const placesResponse = await fetch("tryagain.json");
           const places = await placesResponse.json();
 
           // 조건에 맞는 여행지 필터링
