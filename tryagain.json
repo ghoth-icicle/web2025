@@ -1,19 +1,43 @@
 [
   {
-    "name": "남산타워",
-    "category": "city",
+    "name": "설악산 국립공원",
+    "category": "mountain",
     "weather": "clear",
     "indoor": false,
-    "lat": 37.5512,
-    "lon": 126.9882
+    "lat": 38.1195,
+    "lon": 128.4656
   },
   {
-    "name": "국립중앙박물관",
-    "category": "culture",
-    "weather": "rain",
-    "indoor": true,
-    "lat": 37.5230,
-    "lon": 126.9809
+    "name": "지리산 국립공원",
+    "category": "mountain",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 35.3256,
+    "lon": 127.7326
+  },
+  {
+    "name": "북한산 국립공원",
+    "category": "mountain",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 37.6586,
+    "lon": 126.9997
+  },
+  {
+    "name": "한라산",
+    "category": "mountain",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 33.3617,
+    "lon": 126.5292
+  },
+  {
+    "name": "태백산",
+    "category": "mountain",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 37.1050,
+    "lon": 128.9850
   },
   {
     "name": "해운대 해수욕장",
@@ -24,11 +48,155 @@
     "lon": 129.1604
   },
   {
+    "name": "속초 해수욕장",
+    "category": "sea",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 38.2070,
+    "lon": 128.5913
+  },
+  {
+    "name": "을왕리 해수욕장",
+    "category": "sea",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 37.4092,
+    "lon": 126.3726
+  },
+  {
+    "name": "경포대 해수욕장",
+    "category": "sea",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 37.7972,
+    "lon": 128.9154
+  },
+  {
+    "name": "협재 해수욕장",
+    "category": "sea",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 33.3934,
+    "lon": 126.2389
+  },
+  {
+    "name": "남산타워",
+    "category": "city",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 37.5512,
+    "lon": 126.9882
+  },
+  {
+    "name": "동대문 디자인 플라자",
+    "category": "city",
+    "weather": "clear",
+    "indoor": true,
+    "lat": 37.5665,
+    "lon": 127.0095
+  },
+  {
+    "name": "부산 타워",
+    "category": "city",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 35.1007,
+    "lon": 129.0327
+  },
+  {
+    "name": "광안대교",
+    "category": "city",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 35.1532,
+    "lon": 129.1184
+  },
+  {
+    "name": "청계천",
+    "category": "city",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 37.5684,
+    "lon": 126.9770
+  },
+  {
+    "name": "국립중앙박물관",
+    "category": "culture",
+    "weather": "rain",
+    "indoor": true,
+    "lat": 37.5230,
+    "lon": 126.9809
+  },
+  {
+    "name": "경복궁",
+    "category": "culture",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 37.5796,
+    "lon": 126.9770
+  },
+  {
+    "name": "인사동 거리",
+    "category": "culture",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 37.5740,
+    "lon": 126.9849
+  },
+  {
+    "name": "한국민속촌",
+    "category": "culture",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 37.2594,
+    "lon": 127.1168
+  },
+  {
+    "name": "한옥마을 (전주)",
+    "category": "culture",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 35.8142,
+    "lon": 127.1504
+  },
+  {
     "name": "롯데월드",
     "category": "festival",
     "weather": "rain",
     "indoor": true,
     "lat": 37.5116,
     "lon": 127.0980
+  },
+  {
+    "name": "에버랜드",
+    "category": "festival",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 37.2946,
+    "lon": 127.2022
+  },
+  {
+    "name": "서울불꽃축제 (여의도)",
+    "category": "festival",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 37.5206,
+    "lon": 126.9395
+  },
+  {
+    "name": "진해군항제",
+    "category": "festival",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 35.1521,
+    "lon": 128.6593
+  },
+  {
+    "name": "보령 머드축제",
+    "category": "festival",
+    "weather": "clear",
+    "indoor": false,
+    "lat": 36.3287,
+    "lon": 126.6126
   }
 ]
